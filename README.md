@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @19009095
-- 👀 I’m interested in building web applications.
-- 🌱 I’m currently learning Software Engineering.
+- 👋 Hi, I’m Louise
+- 👀 I’m interested in UX Design and building web applications.
+- 🌱 I’m currently learning Software Engineering and UX Design.
 - 💞️ I’m looking to collaborate on my web application for University.
 - 📫 How to reach me - 19009095@hope.ac.uk
 
